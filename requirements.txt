@@ -1,0 +1,6 @@
+# C0lorNote dependencies
+PyQt6>=6.8.0
+pillow>=11.0.0
+pyyaml>=6.0.0
+pyinstaller>=6.5.0; platform_system != "Android"
+buildozer>=1.5.0; platform_system == "Linux"
